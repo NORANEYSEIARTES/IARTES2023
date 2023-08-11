@@ -1,11 +1,11 @@
 #PRIMEIRA ATRIBUIÇÃO: DEU CERTO, DUAS ATRIBUIÇÕES PRA DUAS VARIÁVEIS;
-#casa, senha = "minha", "ola"
-#print(casa, senha)
+casa, senha = "minha", "ola"
+print(casa, senha)
 
-#SEGUNDA ATRIBUIÇÃO: DÁ ERRO PORQUE TEM DUAS ATRIBUIÇÕES PRA UMA VARIÁVEL DECLARADA;
+#SEGUNDA ATRIBUIÇÃO: DÁ ERRO PORQUE TEM UMA ATRIBUIÇÃO PARA DUAS VARIÁVEL DECLARADA;
 casa, senha = "minha"
 print(casa, senha)
 
 #TERCEIRA ATRIBUIÇÃO: DEU CERTO, UMA ATRIBUIÇÃO PARA UMA VARIÁVEL;
-#casa = "minha"
-#print(casa)
+casa = "minha"
+print(casa)
