@@ -1,0 +1,9 @@
+ola = "mundo"
+_ola = "mundo"
+_1_ola = "mundo"
+#1_ola = "mundo"
+ola_1 = "mundo"
+#meu mundo = "ola"
+
+#a variável que começa por número "1_ola = "mundo" é inválida
+#a variável que começa por número "meu mundo = "ola" é inválida
