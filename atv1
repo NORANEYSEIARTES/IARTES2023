@@ -1,0 +1,6 @@
+num1=11
+num2=10
+print("Número 1: ", num1)
+print("Número 2: ", num2)
+
+#Conforme solicitado o programa soliciita duas variáveis int e o usuário coloca valores positivos.
