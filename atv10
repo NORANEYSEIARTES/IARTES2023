@@ -1,0 +1,4 @@
+numero = input("digite um número: ")
+print(numero*3)
+
+#O resultado ficou: 333, ou seja, repetiu o número trêS vezes.
