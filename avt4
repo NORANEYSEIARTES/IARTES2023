@@ -5,5 +5,5 @@ _1_ola = "mundo"
 ola_1 = "mundo"
 #meu mundo = "ola"
 
-#a variável que começa por número "1_ola = "mundo" é inválida
-#a variável que começa por número "meu mundo = "ola" é inválida
+#a variável que começa por número "1_ola = "mundo" é inválida, pois não pode começar uma variável por número.
+#a variável que começa por número "meu mundo = "ola" é inválida, pois não pode conter espaço numa variável.
