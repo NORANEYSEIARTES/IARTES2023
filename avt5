@@ -9,3 +9,5 @@ print(casa, senha)
 #TERCEIRA ATRIBUIÇÃO: DEU CERTO, UMA ATRIBUIÇÃO PARA UMA VARIÁVEL;
 casa = "minha"
 print(casa)
+
+#Se for executar cada código, favor pegar separadamente pra não ocorrer erro. 
