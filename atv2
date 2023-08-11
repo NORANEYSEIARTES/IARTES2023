@@ -1,0 +1,4 @@
+X = 2 + 4j
+print(type(X))
+
+#o resultado deu 'complex', ou seja, existe uma parte real e uma imaginária.
