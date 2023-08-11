@@ -1,0 +1,4 @@
+comprado = ("carro", "GM", "20K")
+comprado[1] = "Ford"
+
+#Não concordo com a afirmação, pois como tuplas são imutáveis, não se pode alterar os elementos.
