@@ -1,6 +1,0 @@
-a = int(input("num1: "))
-b = int(input("num2: "))
-print(type(a))
-
-#Conforme solicitado o programa soliciita duas variáveis int e o usuário coloca valores positivos.
-
