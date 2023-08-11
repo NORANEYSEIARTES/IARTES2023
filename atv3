@@ -1,0 +1,7 @@
+urnas = {}
+sessao = {"escola municipal", 103}
+print(type(urnas))
+print(type(sessao))
+
+#O primeiro tipo 'urnas' resultou no tipo 'dict'.
+#O segundo tipo 'sessao' resultou no tipo 'set'.
