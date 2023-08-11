@@ -1,0 +1,15 @@
+um = (10 - 6) ** 2
+print(um)
+#RESULTADO: 16
+
+dois = 10 - 6 ** 2
+print(dois)
+#RESULTADO: -26
+
+tres = 10 - 3 // 2
+print(tres)
+#RESULTADO: 9
+
+quatro = 10 - 3 / 2
+print(quatro)
+#RESULTADO: 8.5
